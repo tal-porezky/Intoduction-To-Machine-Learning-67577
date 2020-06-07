@@ -386,7 +386,7 @@ wcwidth==0.1.7
 webencodings==0.5
 WebOb==1.7.3
 WebTest==2.0.28
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wrapt==1.9.0
 wsaccel==0.6.2
 wstools==0.4.3
