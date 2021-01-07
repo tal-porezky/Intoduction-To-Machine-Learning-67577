@@ -152,7 +152,7 @@ lockfile==0.12.2
 logilab-common==1.4.1
 Louie==1.1
 louis==3.6.0
-lxml==4.2.3
+lxml==4.6.2
 lz4==1.1.0
 M2Crypto==0.27.0
 Mako==1.0.7
