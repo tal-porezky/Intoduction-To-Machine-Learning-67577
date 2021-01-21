@@ -264,7 +264,7 @@ pyquery==1.2.9
 pyramid==1.9.1
 PyRRD==0.1.0
 pysam==0.14
-pysaml2==5.0.0
+pysaml2==6.5.0
 pyserial==3.4
 pyshp==1.2.12
 pysqlite==2.7.0
