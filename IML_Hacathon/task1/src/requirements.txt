@@ -23,7 +23,7 @@ BeautifulSoup==3.2.1
 beautifulsoup4==4.6.1
 biom-format==2.1.6
 biopython==1.72
-bleach==3.1.4
+bleach==3.3.0
 blinker==1.4
 bottle==0.12.13
 brial==1.0.1
