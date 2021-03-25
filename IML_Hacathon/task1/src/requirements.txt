@@ -289,7 +289,7 @@ PyTrie==0.2
 pytz==2018.5
 PyWavelets==0.5.1
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==17.1.0
 qcli==0.1.1
 qrcode==6.0
