@@ -7,7 +7,7 @@ asn1crypto==0.24.0
 astroid==1.6.5
 atomicwrites==1.1.5
 attrs==17.4.0
-autobahn==17.10.1
+autobahn==20.12.3
 Automat==0.6.0
 avro==1.8.2
 Axiom==0.7.5
