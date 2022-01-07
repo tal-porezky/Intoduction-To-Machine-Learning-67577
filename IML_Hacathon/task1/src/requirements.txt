@@ -55,7 +55,7 @@ cryptography==2.3
 cssselect==1.0.3
 cssutils==1.0.2
 cutadapt==1.18
-cvxopt==1.1.9
+cvxopt==1.2.7
 cwltool==1.0.20180302231433
 cycler==0.10.0
 cypari2==1.1.4
