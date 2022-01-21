@@ -126,7 +126,7 @@ ipaddr==2.2.0
 ipaddress==1.0.17
 IPy==0.83
 ipykernel==4.8.2
-ipython==5.5.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==6.0.0
 isodate==0.6.0
