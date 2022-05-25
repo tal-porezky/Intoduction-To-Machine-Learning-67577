@@ -247,7 +247,7 @@ pygraphviz==1.4rc1
 PyGreSQL==5.0.5
 PyICU==2.0.3
 pyinotify==0.9.6
-PyJWT==1.6.4
+PyJWT==2.4.0
 pyliblzma==0.5.3
 pylibssh2==1.0.0
 pylint==1.9.2
