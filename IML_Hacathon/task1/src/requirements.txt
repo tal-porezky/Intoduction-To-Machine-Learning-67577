@@ -25,7 +25,7 @@ biom-format==2.1.6
 biopython==1.72
 bleach==3.1.4
 blinker==1.4
-bottle==0.12.13
+bottle==0.12.20
 brial==1.0.1
 Brlapi==0.6.7
 bx-python==0.8.1
