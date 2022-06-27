@@ -303,7 +303,7 @@ rdflib-jsonld==0.4.0
 recaptcha-client==1.0.6
 regex==2018.6.9
 reportbug==6.6.6
-reportlab==3.5.2
+reportlab==3.5.55
 repoze.lru==0.7
 repoze.who==2.2
 requests==2.18.4
