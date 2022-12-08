@@ -36,7 +36,7 @@ CacheControl==0.11.7
 cajarename==18.1.10
 cbor==1.0.0
 ccsm==0.9.13.1
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.11.5
 Chameleon==2.24
 chardet==3.0.4
